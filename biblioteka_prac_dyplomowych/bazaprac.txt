@@ -1,0 +1,60 @@
+11
+lic
+Jak oddzialuje na nas technologia
+Bednarek
+Michal
+2002
+Kozlowski
+Ryszard
+technologia;oddzialywanie;
+Praca na temat oddzialywania na nas technologii.
+23
+mgr
+Nanotechnologia
+Nowak
+Adam
+2004
+Kisior
+Anna
+nanotechnologia;technologia;
+Praca na temat nanotechnologii.
+5
+inz
+Rozne jezyki programowania
+Roa
+Kacper
+2012
+Nowak
+Katarzyna
+jezyki;programowanie;rozne;
+Praca na temat roznych jezykow programowania :).
+7
+inz
+AI - czyli sztuczna inteligencja
+Bush
+Aleksander
+2013
+Nowak
+Katarzyna
+technologia;sztuczna;inteligencja;
+Praca na temat sztucznej inteligencji.
+6
+mgr
+Cyfrowi Nomadzi
+Kowalski
+Janusz Kacper
+2013
+Kozlowski
+Ryszard
+cyfrowi;nomadzi;programowanie;
+Praca na temat cyfrowych nomadow.
+3
+inz
+Superowo
+Herman
+Kato
+2011
+Jacek
+Trol
+super
+superowo
